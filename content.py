@@ -5,6 +5,6 @@ repo = git.Repo(r"C:\Users\FP IT\Projects\Personal\hamachi")
 mock_repo = git.Repo(r"C:\Users\FP IT\Projects\Personal\alovega")
 
 importer = Importer([repo], mock_repo)
-importer.set_author('kevin.lugaziwa@financeplan.biz')
+importer.set_author(['alovegakevin@gmail.com','kevin.lugaziwa@financeplan.biz'])
 
 importer.import_repository()
