@@ -28,7 +28,7 @@ I am a software engineering enthusiast with an eye for understanding the heart o
 
 📈 **My GitHub Stats:**
 
-[Alovega's github stats](https://github-readme-stats.vercel.app/api?username=alovega&show_icons=true&theme=radical&count_private=true)
+![Alovega's github stats](https://github-readme-stats.vercel.app/api?username=alovega&show_icons=true&theme=radical&count_private=true)
 
 
 
